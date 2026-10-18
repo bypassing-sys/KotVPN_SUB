@@ -2,21 +2,15 @@ vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?flow=xtls-rprx-vis
 
 vless://370d8d64-3dae-4831-a282-25990b9919d1@72.56.243.30:25570?flow=xtls-rprx-vision&encryption=none&security=reality&sni=kookas.fi&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&sid=43dcff52289b81e6&type=tcp&headerType=none#🇦🇹 Wi-Fi | Австрия ⚡
 
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@gonci.zaebalsanoproxyklinus.lol:20285?flow=xtls-rprx-vision&encryption=none&security=reality&sni=metrika.yandex.ru&fp=firefox&pbk=snNVYSFAGMHIRMnzBZoFFTcu6KowqSFLSyRgmI9NSRU&sid=5308d9ab&type=tcp&headerType=none#🇰🇿 Wi-Fi | Казахстан 🚀
-
 vless://68c9d071-4c92-4761-bad2-1222c18f17fe@157.173.29.196:443?encryption=none&security=reality&sni=twitch.tv&fp=firefox&pbk=RZgcRx_0BCj9SQhkm5he3gNGmRs28l2sztZ8eBxzXwA&sid=df&type=tcp&headerType=none#🇪🇬 Wi-Fi | Египет ⚡
 
-vless://5a4f865d-7480-45a8-b487-248a46819aa1@45.84.1.42:25565?flow=xtls-rprx-vision&encryption=none&security=reality&sni=kookas.fi&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&sid=43dcff53849b81e6&type=tcp&headerType=none#🇦🇿 Wi-Fi | Азербайджан 💎 #2
-
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolden.cc:443?encryption=none&security=tls&sni=api.mediapolden.cc&alpn=h2&fp=qq&type=grpc&mode=gun&authority=&serviceName=r7Kp4mN9tQ2v#🇨🇿 Wi-Fi | Чехия 🏆
+vless://5a4f865d-7480-45a8-b487-248a46819aa1@45.84.1.42:25565?flow=xtls-rprx-vision&encryption=none&security=reality&sni=kookas.fi&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&sid=43dcff53849b81e6&type=tcp&headerType=none#🇦🇿 Wi-Fi | Азербайджан 💎
 
 vless://ba123985-1cd5-4873-bc82-d20223fe5419@93.183.87.107:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=lively-raptor.cdn.cachefleet.com&fp=random&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&type=tcp&headerType=none#🇰🇿 Wi-Fi | Казахстан 🌐
 
 vless://7711a8ed-c9f9-45b3-9554-fd1090a6f524@157.245.109.69:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=gadgetsaura.pk&fp=chrome&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&sid=5b4a12ef7e1694dd&spx=%2F&type=tcp&headerType=none#🇮🇳 Wi-Fi | Индия 🌐
 
 vless://51e3c020-c5cc-2d14-2d96-eda4bda55eb0@fi1.spacevpn.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1.spacevpn.space&fp=chrome&pbk=IcKiJq83b5CqqRVe3CgzCJjwQ4HE-Xu1KNkgiWwEw1U&sid=62860a061d6112c3&type=tcp&headerType=none#🇫🇮 Wi-Fi | Финляндия 🎖
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.kaidee.com&fp=random&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&sid=cbd39bea0805e2&type=tcp&headerType=none#🇹🇭 Wi-Fi | Таиланд ⭐
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@fitindoor.net:2053?security=tls&sni=fitindoor.net&insecure=0&allowInsecure=0&type=xhttp&host=fitindoor.net&path=%2Fapi%2Fv1%2Fupload&encryption=none#🇳🇱 Нидерланды 🎮 Игровой #1
 
