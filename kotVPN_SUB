@@ -14,20 +14,8 @@ vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?security=tls&sni
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?security=tls&sni=dismissaltree.net&alpn=h2%2Chttp%2F1.1&type=xhttp&headerType=none&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&encryption=none#🇩🇪 Германия ⚡ 20 Gb/s
 
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.180:2053?security=tls&sni=dismissaltree.net&alpn=h2%2Chttp%2F1.1&fp=chrome&type=xhttp&host=fitindoor.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&encryption=none#🇩🇪 Германия 🎮 Игровой #2
-
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?security=tls&sni=dismissaltree.net&alpn=h2%2Chttp%2F1.1&fp=random&insecure=0&allowInsecure=0&type=xhttp&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&encryption=none#🇩🇪 Германия ✅ Проверенный
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?security=tls&sni=summerculture.net&insecure=0&allowInsecure=0&type=xhttp&path=%2Fapi%2Fv1%2Fupload&mode=auto&encryption=none#🇩🇪 Германия 🚀 Турбо
 
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@randomquaint.net:2053?security=tls&sni=randomquaint.net&insecure=0&allowInsecure=0&type=xhttp&host=randomquaint.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&encryption=none#🇩🇪 Германия 🛡 Надежный
-
-vless://661b4f83-f297-4a72-9663-ac71a7547644@46.243.232.174:8547?security=tls&sni=de-prem.nimarko.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=de-prem.nimarko.org&path=%2Fr%2F06251bdc60454fdd93d73f67c64b60d8&encryption=none#🇩🇪 Германия (Nimarko) #1
-
-vless://661b4f83-f297-4a72-9663-ac71a7547644@46.243.232.174:8542?security=tls&sni=it-prem.nimarko.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=it-prem.nimarko.org&path=%2Fr%2F522a6122e5834e1596e8e3ace7036e1a&encryption=none#🇮🇹 Италия (Nimarko)
-
-vless://661b4f83-f297-4a72-9663-ac71a7547644@46.243.232.174:8544?security=tls&sni=fr-prem.nimarko.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fr-prem.nimarko.org&path=%2Fr%2Fdd4f7fb23bcf42caafc44bfb37b27a52&encryption=none#🇫🇷 Франция (Nimarko)
-
-vless://0af8c084-acd8-43a1-be64-baf6f3027194@81.163.22.35:8443?security=reality&sni=load.videostreamer.ru&fp=firefox&pbk=e6rP8xM5lq0nZ_Ni7XRO3EXC3sJU_pEeDmzJC-3gPTA&sid=7aac777b&spx=%2F&type=grpc&encryption=none#🇷🇺 Россия (Reality)
-
-vless://661b4f83-f297-4a72-9663-ac71a7547644@46.243.232.174:8548?security=tls&sni=ru-vpn.nimarko.org&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ru-vpn.nimarko.org&path=%2Fr%2F065c088d5d7d4fa1bb78afea7e2e5c5e&encryption=none#🇷🇺 Россия (Nimarko)
